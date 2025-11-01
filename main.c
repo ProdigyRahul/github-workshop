@@ -8,4 +8,9 @@ int main() {
   for(int i = 1; i <= n; i++) {
     printf("%d\n", i);
   }
+  int k = 100;
+  while(k>=0) {
+    printf("%d\n", k);
+    k -= 10;
+  }
 }

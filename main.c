@@ -9,8 +9,4 @@ int main() {
     printf("%d\n", i);
   }
   int k = 100;
-  while(k>=0) {
-    printf("%d\n", k);
-    k -= 10;
-  }
 }
